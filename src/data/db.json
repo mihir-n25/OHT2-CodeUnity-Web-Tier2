@@ -1,0 +1,28 @@
+{
+    "portfolio" : [
+        {
+            "cover" : "/portfolio/1/one.png",
+            "title" : "Gallery WebApp",
+            "description" : "react, JSX , Tailwind , Jest",
+            "url" : "http://google.com"
+        },
+        {
+            "cover" : "/portfolio/1/two.png",
+            "title" : "KBC React App",
+            "description" : "react, API , Tailwind ",
+            "url" : "http://google.com"
+        },
+        {
+            "cover" : "/portfolio/1/three.png",
+            "title" : "3d GSAP",
+            "description" : "HTML , CSS , JS , GSAP",
+            "url" : "http://google.com"
+        },
+        {
+            "cover" : "/portfolio/1/four.png",
+            "title" : "IPhone Clone",
+            "description" : "Next, JSX , 3D , Bootstrap",
+            "url" : "http://google.com"
+        }
+    ]
+}
